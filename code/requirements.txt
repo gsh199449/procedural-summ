@@ -1,0 +1,10 @@
+transformers==4.3.3
+rouge_score
+nltk
+torch>=1.4.0
+packaging
+datasets==1.2.1
+absl-py
+comet_ml
+sacrebleu
+tensorboard
